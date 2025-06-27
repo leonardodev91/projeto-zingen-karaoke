@@ -28,7 +28,7 @@
   
   -webkit-background-clip: initial;
   background-clip: initial;
-   color: var(--btn-color)
+  color: var(--btn-color)
 
 }
 
@@ -53,7 +53,7 @@
     content: "";
     position: absolute;
     border-radius: inherit;
-    inset: 0.09375rem;
+    inset: 1px;
     background-color: var(--bg-color);
   }
 
