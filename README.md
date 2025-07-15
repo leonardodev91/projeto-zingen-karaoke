@@ -1,20 +1,23 @@
-Zingen — Site Institucional
+Zingen — Site Institucional de Karaokê
 
-Este é um projeto de site institucional desenvolvido com foco em layout moderno, responsividade e boas práticas de organização em HTML e CSS. Ideal para apresentar seções como **hero**, **about**, **features** e **social links** de forma clara e funcional.
+Este é um projeto de site institucional fictício para uma casa de karaokê chamado **Zingen**, desenvolvido com foco em:
+
+- Layout moderno
+- Responsividade
+- Boas práticas de organização com HTML e CSS puros
+
+O site apresenta seções como **hero**, **about**, **features**, **social links** e **download**, entregando uma estrutura visual agradável e funcional.
+
+---
+Acesse o site publicado pelo GitHub Pages:
+
+🔗 [https://leonardodev91.github.io/projeto-zingen-karaoke/](https://leonardodev91.github.io/projeto-zingen-karaoke/)
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- Grid e Flexbox
-- Organização modular de arquivos CSS
-- Git e GitHub para versionamento.
-- 
--  Funcionalidades
-
-- Layout responsivo para desktop
-- Seções: Hero, About, Features, Social Links
-- Utilização de variáveis CSS e classes utilitárias
-- Código limpo, comentado e modularizado
+- **HTML5**
+- **CSS3**
+- Flexbox e Grid Layout
+- Organização com classes utilitárias
